@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Dussan</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 🔭 I’m currently working on [Plenty Code](https://github.com/plentycode/)
+- 🔭 I’m currently working on [Plenty Code](https://www.plentycode.com/)
 
 - 🌱 I’m currently learning **Astro, React Js and TailwindCSS**
 
